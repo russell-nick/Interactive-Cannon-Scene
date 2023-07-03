@@ -34,15 +34,15 @@ Additional visual effects were implemented. These include shadows (optional 64-s
 
 Realistic Shading             |  No Texture Realistic 
 :-------------------------:|:-------------------------:
-![normal300](https://github.com/russell-nick/Interactive-Cannon-Scene/assets/84354901/3abd3536-8384-4cf2-b729-73866aed543b) | ![no-texture300](https://github.com/russell-nick/Interactive-Cannon-Scene/assets/84354901/20157938-10c1-4f14-a83b-63ee3bb842fd)
+![normal300](https://github.com/russell-nick/Interactive-Cannon-Scene/assets/84354901/1a187d1e-ab7a-4930-93c8-11ff44bb8fdd) | ![no-texture300](https://github.com/russell-nick/Interactive-Cannon-Scene/assets/84354901/d4779fd0-06a9-40ce-9bdb-b7731b2aafa2)
 
 Cel Shading            |  No Texture Cel 
 :-------------------------:|:-------------------------:
-![cel300](https://github.com/russell-nick/Interactive-Cannon-Scene/assets/84354901/23ec75c6-869b-42bd-a7a2-37b6b736de11) | ![notexture-cel300](https://github.com/russell-nick/Interactive-Cannon-Scene/assets/84354901/20237aca-a184-435b-8714-8851b3d723bb)
+![cel300](https://github.com/russell-nick/Interactive-Cannon-Scene/assets/84354901/d187b42f-eeea-49b0-a2db-4bfec329de66) | ![notexture-cel300](https://github.com/russell-nick/Interactive-Cannon-Scene/assets/84354901/7d84fca8-e6fe-4e84-854f-9b8ba85111a2)
 
 "Extreme" Cel Shading             |  No Texture "Extreme" Cel
 :-------------------------:|:-------------------------:
-![extreme300](https://github.com/russell-nick/Interactive-Cannon-Scene/assets/84354901/423235e8-43fe-406f-af86-28641c04e07c) | ![extreme-notexture300](https://github.com/russell-nick/Interactive-Cannon-Scene/assets/84354901/6f2d30ab-5fe8-49c5-be70-8e775cb1767f)
+![extreme300](https://github.com/russell-nick/Interactive-Cannon-Scene/assets/84354901/52229011-32f9-4860-a01b-c70d4038b761) | ![extreme-notexture300](https://github.com/russell-nick/Interactive-Cannon-Scene/assets/84354901/cc4794ef-2a9f-4d93-a1cb-8cfac46e2e57)
 
 <!---
 Realistic Shading             |  Cel Shading
@@ -66,7 +66,7 @@ Extreme Cel Shading             |  No Texture Extreme Cel
 </p>
 -->
 
-Additional Pictures: (insert link later)
+Additional Pictures: (insert link later or upload folder to the repo)
 
 ### Videos
 The following are videos demonstrating the different lighting effects and the physics simulation. Unfortunately, it seems there is a black bar at the bottom of my recordings.
